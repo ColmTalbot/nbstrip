@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='nbstrip',
     author="Colm Talbot",
-    url="github.com/ColmTalbot/nbstrip",
+    url="https://github.com/ColmTalbot/nbstrip",
     version='0.1.0',
     py_modules=['nbstrip'],
     entry_points='''
